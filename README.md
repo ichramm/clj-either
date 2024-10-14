@@ -1,7 +1,7 @@
 # monad-flow
 [![Build Status](https://travis-ci.org/ichramm/monad-flow.svg?branch=master)](https://travis-ci.org/ichramm/monad-flow)
 [![codecov](https://codecov.io/gh/ichramm/monad-flow/branch/master/graph/badge.svg)](https://codecov.io/gh/ichramm/monad-flow)
-[![Clojars Project](https://img.shields.io/clojars/v/monad-flow.svg)](https://clojars.org/monad-flow)
+[![Clojars Project](https://img.shields.io/clojars/v/com.ichramm/monad-flow.svg)](https://clojars.org/com.ichramm/monad-flow)
 
 A Clojure library designed to provide idiomatic program flow and error handling using the Either and Continuation monads.
 

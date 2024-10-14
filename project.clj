@@ -1,4 +1,4 @@
-(defproject monad-flow "0.0.1"
+(defproject com.ichramm/monad-flow "0.0.1"
   :description "Idiomatic program flow and error handling using the Either and Continuation monads"
   :url "https://github.com/ichramm/monad-flow"
   :license {:name "Eclipse Public License"
